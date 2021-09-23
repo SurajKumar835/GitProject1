@@ -1,4 +1,4 @@
-let a=10;let b=12;
+let a=20;let b=12;
 add(a,b);
 function add(a,b)
 {
